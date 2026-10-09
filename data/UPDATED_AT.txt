@@ -1,5 +1,5 @@
-Last updated: 2026-10-09 02:53:21 UTC
+Last updated: 2026-10-09 17:25:07 UTC
 Supplemental Nature ingest: 0
-articles.db: 60866560 bytes (59MiB)
+articles.db: 61161472 bytes (59MiB)
 nat.db: 1204224 bytes (1.2MiB)
-preprint.db: 84586496 bytes (81MiB)
+preprint.db: 89071616 bytes (85MiB)
