@@ -1,0 +1,14 @@
+{
+  "format_version": 1,
+  "database": "nat.db",
+  "size_bytes": 1212416,
+  "sha256": "a01e9927496b2987a3e0b208dfd60d8f8babb2058a7996014b94faefbea5539e",
+  "chunk_size_bytes": 50331648,
+  "parts": [
+    {
+      "name": "part-00000",
+      "size_bytes": 1212416,
+      "sha256": "a01e9927496b2987a3e0b208dfd60d8f8babb2058a7996014b94faefbea5539e"
+    }
+  ]
+}

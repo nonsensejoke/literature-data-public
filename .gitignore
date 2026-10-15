@@ -1,0 +1,9 @@
+# SQLite working files (restored from data/*.db.parts).
+/data/articles.db
+/data/nat.db
+/data/preprint.db
+*.db-wal
+*.db-shm
+*.db-journal
+.db-volumes-*/
+__pycache__/
