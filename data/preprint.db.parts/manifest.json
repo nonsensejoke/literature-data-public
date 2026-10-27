@@ -2,13 +2,13 @@
   "format_version": 1,
   "database": "preprint.db",
   "size_bytes": 142008320,
-  "sha256": "2dfcc9e841fd5f73d534656c1102d15f8db6c1354a2987fb02e871ad47fc70b3",
+  "sha256": "436cc4f5b147048db8f668be5f5afcae883dc5a212b1ff01742c26486809952a",
   "chunk_size_bytes": 50331648,
   "parts": [
     {
       "name": "part-00000",
       "size_bytes": 50331648,
-      "sha256": "fcf6d611d3b7442b878aca49c8baa0cb42e2cf7496ec64bb467e0d88b152e971"
+      "sha256": "9db4fb5210c15f679b9a0fad2e1e8138fdd5a336dfdf3bd72a0bd2001d751c27"
     },
     {
       "name": "part-00001",
