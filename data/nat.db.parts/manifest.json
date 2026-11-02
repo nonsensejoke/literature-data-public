@@ -2,13 +2,13 @@
   "format_version": 1,
   "database": "nat.db",
   "size_bytes": 1245184,
-  "sha256": "3c408e7a3b2186874c4b2aeafa9c6edfb64d16975a7e082ea96c292c2d4f394e",
+  "sha256": "70df0d45f8a2fb9ae0172151e365c6c48b3f43eb3fc7c462060bd38e125abd07",
   "chunk_size_bytes": 50331648,
   "parts": [
     {
       "name": "part-00000",
       "size_bytes": 1245184,
-      "sha256": "3c408e7a3b2186874c4b2aeafa9c6edfb64d16975a7e082ea96c292c2d4f394e"
+      "sha256": "70df0d45f8a2fb9ae0172151e365c6c48b3f43eb3fc7c462060bd38e125abd07"
     }
   ]
 }

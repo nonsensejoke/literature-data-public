@@ -1,29 +1,29 @@
 {
   "format_version": 1,
   "database": "preprint.db",
-  "size_bytes": 153690112,
-  "sha256": "80cc98eb093c43cf51e5593fef5ddff65f6c63f36f6ca801f1d65983d56dda3b",
+  "size_bytes": 153743360,
+  "sha256": "bc6da8f77896056f43fd809ce2f34e2212f017d9309bb7dc724f079c4d4c251d",
   "chunk_size_bytes": 50331648,
   "parts": [
     {
       "name": "part-00000",
       "size_bytes": 50331648,
-      "sha256": "596a0b879a098364397073a276c8d5a75ac6a9051b67c19e0e854675a2fac0d8"
+      "sha256": "bdcdf6497acc00380d75394443c104bcaca57283fb318d227516c2d4055f7a7f"
     },
     {
       "name": "part-00001",
       "size_bytes": 50331648,
-      "sha256": "4b1e79c06b393e4c748ce1b4f1ae17c98f7f7eafc4de51776422c00146dd233d"
+      "sha256": "734d8a072b9ee6139caf01d2d4efe87f910a0376057f2ba5f955491f0a50211b"
     },
     {
       "name": "part-00002",
       "size_bytes": 50331648,
-      "sha256": "7c603cbbcee438f20d24a85764d6d31e887a0b479caa29c0775767beb9b3e327"
+      "sha256": "64e24d71bc872994f7d132ba5869cd3100b1858aeb94413044f497068afd7859"
     },
     {
       "name": "part-00003",
-      "size_bytes": 2695168,
-      "sha256": "fdc35b75f5189e5c28359a2e4993ef1586dd112a9e5a5d6ad0d4cbf583a68f5f"
+      "size_bytes": 2748416,
+      "sha256": "88e29cdf0e8386748eb5cc5ad35aa37695ed22cfa1bf35b19fc1a720271ad4ed"
     }
   ]
 }
