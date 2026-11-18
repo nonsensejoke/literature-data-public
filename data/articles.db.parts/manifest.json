@@ -1,19 +1,19 @@
 {
   "format_version": 1,
   "database": "articles.db",
-  "size_bytes": 89108480,
-  "sha256": "390505bf04f2588ba0dbe507b9b425e3a4a1339527366c7fcd87b8fd6e367e62",
+  "size_bytes": 89174016,
+  "sha256": "4fe238b36174f88774e68ce4de089294c1d698159ca5a0acc9b236d34d2d701e",
   "chunk_size_bytes": 50331648,
   "parts": [
     {
       "name": "part-00000",
       "size_bytes": 50331648,
-      "sha256": "71a2d956ba7dd8a31da81debd6832c5841a06ac185de4c37b23124ad470ebb21"
+      "sha256": "14e005377c9ffdadee0b14a621efcfbb3a9dc44ae42f7d21033d1dbb3b35a31c"
     },
     {
       "name": "part-00001",
-      "size_bytes": 38776832,
-      "sha256": "d8fb9dd55f5ee51118b47a640d4248a5ab442d1b5a93e25f86f1ad94e76f2f92"
+      "size_bytes": 38842368,
+      "sha256": "14802993cbbb45a7f278e3a444c35b624ea5bbe59a38c839cb13cd92b6d6cd69"
     }
   ]
 }
